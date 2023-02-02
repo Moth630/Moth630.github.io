@@ -1,2 +1,1 @@
-# Moth630.github.io
-LMSC Final
+This is a README for the Final Project Proposal. You may read this README for the Final Project Proposal if you would like, as reading this README for the Final Project Proposal may help you understand the Final Project Proposal better. However, I believe this README for the Final Project Proposal will not be needed as the Final Project Proposal provides enough information on what the Final Project is to understand without the README for the Final Project Proposal. Regardless, the README for the Final Project Proposal is available for you here to be read. like a README for the Final Project Proposal should.
